@@ -1,0 +1,5 @@
+resources:
+  - application/deployment.yml
+  - application/service.yml
+  - application/configmap.yml
+  - application/namespace.yml
